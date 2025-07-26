@@ -61,7 +61,3 @@ The website uses a modern color palette with teal and violet gradients, Inter ty
 ## Deployment
 
 The site is automatically deployed to Netlify from the main branch. Any changes pushed to GitHub will trigger a new deployment.
-
-## License
-
-This project is open source and available under the MIT License.
